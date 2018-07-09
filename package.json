@@ -1,0 +1,17 @@
+{
+  "name": "mochachaisinon",
+  "version": "1.0.0",
+  "description": "Beginner practice test suite with Mocha, Chai, Sinon and Caperjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "theGeekCoder",
+  "license": "ISC",
+  "devDependencies": {
+    "casperjs": "^1.1.4",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.3"
+  }
+}
